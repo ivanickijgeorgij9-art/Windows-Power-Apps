@@ -1,59 +1,59 @@
 @echo off
 chcp 65001 >nul
-title Windows Power Edition Setup
+title Windows Power Apps Setup
 
 echo ================================
-echo   Установка Windows Power Apps
+echo     Installing Windows Power Apps
 echo ================================
 echo.
 
-:: --- PowerToys (Microsoft Store)
-echo Установка NanaZip...
+:: --- NanaZip (WinGet)
+echo Installing NanaZip...
 winget install M2Team.NanaZip --silent
 echo.
 
 :: --- PowerToys (Microsoft Store)
-echo Установка PowerToys...
+echo Installing PowerToys...
 winget install --source msstore XP89DCGQ3K6VLD --silent
 echo.
 
 :: --- ImageGlass (WinGet)
-echo Установка ImageGlass...
+echo Installing ImageGlass...
 winget install DuongDieuPhap.ImageGlass --silent
 echo.
 
 :: --- Screenbox (WinGet)
-echo Установка Screenbox...
+echo Installing Screenbox...
 winget install Starpine.Screenbox --silent
 echo.
 
 :: --- Radiograph (Microsoft Store)
-echo Установка Radiograph...
+echo Installing Radiograph...
 winget install --source msstore 9NH1P86H06CG --silent
 echo.
 
 :: --- OneCommander (WinGet)
-echo Установка OneCommander...
+echo Installing OneCommander...
 winget install MilosParipovic.OneCommander --silent
 echo.
 
 :: --- Fluent Weather (Microsoft Store)
-echo Установка Fluent Weather...
+echo Installing Fluent Weather...
 winget install --source msstore 9PFD136M8457 --silent
 echo.
 
 :: --- Wintoys (Microsoft Store)
-echo Установка Wintoys...
+echo Installing Wintoys...
 winget install --source msstore 9P8LTPGCBZXD --silent
 echo.
 
 :: --- Microsoft PC Manager (Microsoft Store)
-echo Установка Microsoft PC Manager...
+echo Installing Microsoft PC Manager...
 winget install --source msstore 9PM860492SZD --silent
 echo.
 
 echo ================================
-echo Установка завершена!
-echo Рекомендуется перезагрузить компьютер.
+echo Installation completed!
+echo A system restart is recommended.
 echo ================================
 pause
