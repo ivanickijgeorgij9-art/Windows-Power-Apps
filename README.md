@@ -15,7 +15,7 @@ productivity, customization, and system optimization.
 ![Wintoys](Screenshots/Wintoys.png)
 
 ### Microsoft PC Manager
-![Microsoft PC Manager](Screenshots/Microsoft PC Manager.png)
+![Microsoft PC Manager](Screenshots/Microsoft_PC_Manager.png)
 
 ### Radiograph
 ![Radiograph](Screenshots/Radiograph.png)
@@ -30,7 +30,7 @@ productivity, customization, and system optimization.
 ![Screenbox](Screenshots/ScreenBox.png)
 
 ### Fluent Weather
-![Fluent Weather](Screenshots/Fluent Weather.png)
+![Fluent Weather](Screenshots/Fluent_Weather.png)
 
 ### NanaZip
 ![NanaZip](Screenshots/NanaZip.png)
