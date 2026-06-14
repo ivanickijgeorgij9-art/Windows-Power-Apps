@@ -57,7 +57,7 @@ Examples:
 
 ## 🚀 How to Install
 
-1. Extract **Windows-Power-Apps-main.zip** to any folder.  
+1. Extract **PowerApps.7z** to any folder.  
 2. Run **PowerAppsSetup.bat** as Administrator.  
 3. Wait until all core apps are installed.  
 4. Install optional tools from the *Installers* folder if needed.  
